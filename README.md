@@ -38,3 +38,5 @@ git pull
 [git-scm.com](https://git-scm.com/)
 ### Vs code:
 [scode.visualstudio.com](https://code.visualstudio.com/)
+### SublimeText 3:
+[sublimetext.com](https://www.sublimetext.com/3)
