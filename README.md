@@ -40,3 +40,5 @@ git pull
 [scode.visualstudio.com](https://code.visualstudio.com/)
 ### SublimeText 3:
 [sublimetext.com](https://www.sublimetext.com/3)
+#Информация:
+[html book](https://html5book.ru/css3-animator/)
